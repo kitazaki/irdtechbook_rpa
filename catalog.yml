@@ -2,6 +2,7 @@ PREDEF:
   - 00_hajimeni.re
 CHAPS:
   - 01_chap.re
+  - 02_chap.re
 APPENDIX:
 
 POSTDEF:
