@@ -3,6 +3,8 @@ PREDEF:
 CHAPS:
   - 01_chap.re
   - 02_chap.re
+  - 03_chap.re
+  - 04_chap.re
 APPENDIX:
 
 POSTDEF:
