@@ -30,7 +30,7 @@ XXX
 
 == 新山 実奈子 (にいやま みなこ)
 
-XXX
+OL 31年生、RPA 6年生。職歴はロボットアニメ背景作画に始まり、事務ロボット作成に至る。主にWinActor、UiPath、Power Automate（Desktop）で業務自動化のお手伝いをしています。導入支援から開発、納入、教育までお役に立ちますよ。かくし芸としてhtmlを読んだり書いたりできる旧CIW Website Designerです。モットーは、"Que Sera, Sera"。
 
 == 百合宮 桜 (ゆりみや さくら)
 
