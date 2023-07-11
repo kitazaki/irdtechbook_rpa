@@ -1,18 +1,18 @@
 PREDEF:
   - 00_hajimeni.re
 CHAPS:
-  - 01_chap.re
-  - 02_chap.re
-  - 03_chap.re
-  - 04_chap.re
-  - 05_chap.re
-  - 06_chap.re
-  - 07_chap.re
-  - 08_chap.re
-  - 09_chap.re
-  - 10_chap.re
-  - 11_chap.re
-  - 12_chap.re
+  - 1_01_chap.re
+  - 2_02_chap.re
+  - 3_11_chap.re
+  - 4_03_chap.re
+  - 5_10_chap.re
+  - 6_04_chap.re
+  - 7_05_chap.re
+  - 8_06_chap.re
+  - 9_07_chap.re
+  - 10_08_chap.re
+  - 11_09_chap.re
+  - 12_12_chap.re
 APPENDIX:
 
 POSTDEF:
